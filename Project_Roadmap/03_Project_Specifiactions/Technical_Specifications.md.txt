@@ -1,0 +1,10 @@
+	
+Parameter	Value
+Engine Type	Two-Spool High-Bypass Turbofan
+Bypass Ratio	5.0
+Total Airflow	120 kg/s
+Core Airflow	20 kg/s
+Bypass Airflow	100 kg/s
+Net Thrust	36.41 kN
+TSFC	32.53 kg/(kN·h)
+Software	Fusion 360 + GNU Octave
