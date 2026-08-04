@@ -1,0 +1,25 @@
+Contents:-
+
+Completed
+
+✅ Concept Selection
+
+✅ CAD Modeling
+
+✅ Engine Assembly
+
+✅ Thermodynamic Analysis
+
+✅ GNU Octave Scripts
+
+✅ Technical Report
+
+Future Improvements:-
+
+Engineering Drawings
+CFD Analysis
+FEA Analysis
+Blade Optimization
+Structural Analysis
+Manufacturing Study
+Material Optimization
