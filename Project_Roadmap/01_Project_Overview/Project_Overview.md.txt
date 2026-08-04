@@ -1,0 +1,29 @@
+Turbofan Engine V1
+
+Objective:-
+Design and analyze a conceptual two-spool high-bypass turbofan engine using CAD modeling and preliminary thermodynamic analysis.
+
+Software Used:-
+
+Autodesk Fusion 360
+GNU Octave
+Microsoft Word
+Git
+GitHub
+
+Engineering Scope:-
+
+CAD Design
+Component Design
+Assembly Modeling
+Thermodynamic Analysis
+Performance Evaluation
+Technical Documentation
+
+Deliverables:-
+
+Engineering Report
+Fusion 360 CAD Model
+STEP Models
+GNU Octave Scripts
+Engineering Renderings
