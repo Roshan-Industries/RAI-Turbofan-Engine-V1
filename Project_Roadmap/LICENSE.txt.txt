@@ -1,0 +1,32 @@
+Copyright (c) 2026 Rajnish Roshan
+
+Project: RAI-Turbofan-Engine-V1
+
+All rights reserved.
+
+This repository contains engineering documentation, CAD models,
+technical reports, thermodynamic analyses, and GNU Octave source code
+developed by Rajnish Roshan as part of the Roshan Aerospace Industries
+engineering portfolio.
+
+Permission is granted to view, download, and reference this project
+for personal, educational, and non-commercial purposes only, provided
+that appropriate credit is given to the author.
+
+Commercial use, redistribution, modification, republication, or use
+of any part of this project in commercial products or services without
+prior written permission from the author is prohibited.
+
+THE SOFTWARE, CAD MODELS, TECHNICAL DOCUMENTATION, AND ENGINEERING
+CONTENT ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING
+FROM THE USE OF THIS MATERIAL.
+
+Author:
+Rajnish Roshan
+
+Organization:
+Roshan Aerospace Industries
+
+Year:
+2026
